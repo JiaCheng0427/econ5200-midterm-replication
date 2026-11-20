@@ -1,0 +1,3 @@
+Method,N,Estimate,SE,P-value,CI_lower,CI_upper
+HC1,1286,0.0856,0.0104,0.0,0.0652,0.106
+State clustered,1286,0.0856,0.0138,0.0,0.0586,0.1126
