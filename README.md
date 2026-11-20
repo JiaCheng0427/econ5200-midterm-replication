@@ -8,8 +8,7 @@ Identification strategy: Regression discontinuity design (RDD).
 
 Headline claim: Lee (2008) finds that narrowly winning an election increases a party's vote share in the next election. The paper estimate used in my comparison is 0.077.
 
-My replication: My estimate is 0.0815, compared with the paper estimate of 0.077. The difference is 5.83%. My estimate is slightly higher, possibly because of differences in sample selection and model specification.
-
+My replication: My estimate is 0.0856, compared with the paper estimate of 0.077. The difference is 11.22%. My estimate is slightly higher, possibly because of differences in sample selection and model specification.
 
 ## Reproduce the headline table
 
